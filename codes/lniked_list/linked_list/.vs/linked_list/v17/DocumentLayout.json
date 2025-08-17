@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\eray-\\OneDrive\\Masa\u00FCst\u00FC\\Okul\\218\\codes\\lniked_list\\linked_list\\",
+  "WorkspaceRootPath": "C:\\Users\\eray-\\source\\repos\\DataStructreWorks\\codes\\lniked_list\\linked_list\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DCD06F35-BCAF-41DD-B811-C816C25E98FD}|linked_list\\linked_list.vcxproj|C:\\Users\\eray-\\OneDrive\\Masa\u00FCst\u00FC\\Okul\\218\\codes\\lniked_list\\linked_list\\linked_list\\linked_list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{DCD06F35-BCAF-41DD-B811-C816C25E98FD}|linked_list\\linked_list.vcxproj|C:\\Users\\eray-\\source\\repos\\DataStructreWorks\\codes\\lniked_list\\linked_list\\linked_list\\linked_list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{DCD06F35-BCAF-41DD-B811-C816C25E98FD}|linked_list\\linked_list.vcxproj|solutionrelative:linked_list\\linked_list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "linked_list.cpp",
-              "DocumentMoniker": "C:\\Users\\eray-\\OneDrive\\Masa\u00FCst\u00FC\\Okul\\218\\codes\\lniked_list\\linked_list\\linked_list\\linked_list.cpp",
+              "DocumentMoniker": "C:\\Users\\eray-\\source\\repos\\DataStructreWorks\\codes\\lniked_list\\linked_list\\linked_list\\linked_list.cpp",
               "RelativeDocumentMoniker": "linked_list\\linked_list.cpp",
-              "ToolTip": "C:\\Users\\eray-\\OneDrive\\Masa\u00FCst\u00FC\\Okul\\218\\codes\\lniked_list\\linked_list\\linked_list\\linked_list.cpp",
-              "RelativeToolTip": "linked_list\\linked_list.cpp",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAwwDAAAAAFAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\eray-\\source\\repos\\DataStructreWorks\\codes\\lniked_list\\linked_list\\linked_list\\linked_list.cpp*",
+              "RelativeToolTip": "linked_list\\linked_list.cpp*",
+              "ViewState": "AgIAADwAAAAAAAAAAAAqwGcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-12T08:00:09.886Z",
               "EditorCaption": ""
